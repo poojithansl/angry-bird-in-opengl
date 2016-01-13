@@ -1,0 +1,1 @@
+This project is indended to develop a single level, single player angry bird game with basic functionalities using the available opengl libraries.
